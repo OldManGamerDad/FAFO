@@ -1,0 +1,8 @@
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
+  <div style="padding: 10px 10px; border-radius: 25px; color: white; font-weight: bold; border: px solid red; text-align: center; background-color: transparent; font-size: 24px; margin-bottom: 10px;">
+    👑 Mightiest Kingdom 👑
+  </div>
+  <div style="padding: 10px 20px; border-radius: 25px; color: white; font-weight: bold; border: 0px solid red; text-align: center; background-color: transparent; font-size: 24px;">
+    Calculator
+  </div>
+</div>
